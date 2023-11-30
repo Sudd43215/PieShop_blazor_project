@@ -1,0 +1,11 @@
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\bin\Debug\net7.0\BethanysPieShopHRM.Shared.deps.json
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\bin\Debug\net7.0\BethanysPieShopHRM.Shared.dll
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\bin\Debug\net7.0\BethanysPieShopHRM.Shared.pdb
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.dll
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\refint\BethanysPieShopHRM.Shared.dll
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\BethanysPieShopHRM.Shared.pdb
+C:\Users\Sudhir.Singh\source\repos\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net7.0\ref\BethanysPieShopHRM.Shared.dll
